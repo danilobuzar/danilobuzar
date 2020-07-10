@@ -1,12 +1,10 @@
 ### Hi there, I'm Danilo Buzar 👋
 
-:computer: Software Specialist at [Vertigo Tecnologia](http://www.vertigo.com.br)
-
+:computer: Software Specialist at [Vertigo Tecnologia](http://www.vertigo.com.br)  
 :house_with_garden: Brazilian who from Rio de Janeiro
 
 ### Find me around the web :earth_americas:
-:bird: https://twitter.com/danilobuzar
-
+:bird: https://twitter.com/danilobuzar  
 :briefcase: https://www.linkedin.com/in/danilobuzar/
 
 <!--
